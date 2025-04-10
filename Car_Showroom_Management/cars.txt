@@ -1,0 +1,5 @@
+ms001,maruti,f,60.00,1,1,1,1
+ms002,maruti,wht,70.00,2,2,1,1
+ms003,maruti,h,80.00,2,2,0,1
+ms005,Swift,White,12.00,1,1,0,1
+ms009,maruti,red,90.00,1,1,0,1

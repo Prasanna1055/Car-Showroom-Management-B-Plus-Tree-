@@ -1,0 +1,3 @@
+1,Maruti Suzuki Showroom,Maruti Suzuki,5,3,2,130.00,130.00,0.00,0.00,2,0,0
+2,Hyundai Showroom,Hyundai,0,0,0,0.00,0.00,0.00,0.00,0,0,0
+3,Tata Motors Showroom,Tata Motors,0,0,0,0.00,0.00,0.00,0.00,0,0,0
